@@ -42,6 +42,7 @@ To collect and analyze cosmetic product data from Sociolla’s website to identi
 - `sociolla_data_cleaning.ipynb`        # Data cleaning notebook
 - `sociolla_clean.csv`                  # Cleaned dataset
 - `analisis_visualization.ipynb`        # Data analysis & visualization
+- `Web Scraping and Analysis of Cosmetic Products from Sociolla.pdf` # PDF report for the analysis
 - `README.md`                          # Project documentation
 
 ## 📊 Key Insights
@@ -57,7 +58,7 @@ The main objective of this project is to identify which cosmetic brands are most
 | Most Products Rated Above 4.7        | Elise (53), Jacqueline Beaute (42), Lavie Lash (33) | Consistently excellent product performance               |
 
 > Detailed charts and visualizations are available in the `analisis_visualization.ipynb` notebook.
-> For a more complete summary of the analysis, you can also refer to the PDF report in this repository.
+> For a more complete summary of the analysis, you can also refer to the PDF report `Web Scraping and Analysis of Cosmetic Products from Sociolla.pdf` in this repository.
 
 ## 🙌 Final Words
 Thanks for scrolling this far! Got ideas, thoughts, or feedback? I’m all ears 👂✨
