@@ -60,6 +60,15 @@ The main objective of this project is to identify which cosmetic brands are most
 > Detailed charts and visualizations are available in the `analisis_visualization.ipynb` notebook.
 > For a more complete summary of the analysis, you can also refer to the PDF report `Web Scraping and Analysis of Cosmetic Products from Sociolla.pdf` in this repository.
 
+---
+
+⚠️ **Disclaimer**  
+- This project was created only for **learning and practice purposes**.  
+- The data collected from Sociolla is used just to explore web scraping and data analysis techniques.  
+- I do not intend to use the data for anything commercial or harmful.  
+- If there are any issues or concerns, feel free to contact me and I’ll be happy to take action.
+
+
 ## 🙌 Final Words
 Thanks for scrolling this far! Got ideas, thoughts, or feedback? I’m all ears 👂✨
 
