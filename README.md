@@ -53,9 +53,9 @@ The main objective of this project is to identify which cosmetic brands are most
 |--------------------------------------|-----------------------------------------------------|----------------------------------------------------------|
 | Most Product Variety                 | Make Over, Focallure, BLP Beauty                    | Active in launching products, wide market coverage       |
 | Highest Total Reviews                | Wardah, Emina, Maybelline                           | High brand awareness and customer engagement             |
-| Highest Review-to-Product Ratio      | Emina (1,503), Maybelline (1,358), Wardah           | Each product gets significant customer feedback          |
+| Highest Review-to-Product Ratio      | Emina, Maybelline, Wardah                           | Each product gets significant customer feedback          |
 | High Avg. Rating + High Engagement   | Wardah, Emina, Maybelline, Make Over, Mother of Pearl | Quality and popularity combined                          |
-| Most Products Rated Above 4.7        | Elise (53), Jacqueline Beaute (42), Lavie Lash (33) | Consistently excellent product performance               |
+| Most Products Rated Above 4.7        | Elise, Jacqueline Beaute, Lavie Lash                 | Consistently excellent product performance               |
 
 > Detailed charts and visualizations are available in the `analisis_visualization.ipynb` notebook.
 > For a more complete summary of the analysis, you can also refer to the PDF report `Web Scraping and Analysis of Cosmetic Products from Sociolla.pdf` in this repository.
