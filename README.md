@@ -64,7 +64,7 @@ The main objective of this project is to identify which cosmetic brands are most
 
 ⚠️ **Disclaimer**  
 - This project was created only for **learning and practice purposes**.  
-- The data collected from Sociolla is used just to explore web scraping and data analysis techniques.  
+- The data collected from Sociolla is used just to **learning web scraping and data analysis techniques**.  
 - I do not intend to use the data for anything commercial or harmful.  
 - If there are any issues or concerns, feel free to contact me and I’ll be happy to take action.
 
