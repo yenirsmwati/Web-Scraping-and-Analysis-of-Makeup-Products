@@ -1,6 +1,6 @@
-# 🛍️ Sociolla Web Scraping & Analysis
+# 🛍️ Web Scraping & Analysis
 
-This project involves **scraping**, **cleaning**, and **analyzing** cosmetic product data from the [Sociolla](https://www.sociolla.com/) website. It focuses on extracting key product information and performing basic data analysis and visualization to gain insights into product pricing, ratings, and customer reviews.
+This project involves **scraping**, **cleaning**, and **analyzing** cosmetic product data from the website. It focuses on extracting key product information and performing basic data analysis and visualization to gain insights into product pricing, ratings, and customer reviews.
 
 ## 📌 Project Objective
 
