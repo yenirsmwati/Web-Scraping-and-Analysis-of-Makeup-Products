@@ -36,7 +36,6 @@ To collect and analyze cosmetic product data from Sociolla’s website to identi
 ## 📁 Project Structure
 
 📦 **sociolla-web-scraping-analysis**
-- `scraping_sociolla.py`                # Python script for scraping
 - `chromedriver.exe`                    # ChromeDriver for Selenium
 - `sociolla_makeup_data.csv`            # Raw scraped data
 - `sociolla_data_cleaning.ipynb`        # Data cleaning notebook
